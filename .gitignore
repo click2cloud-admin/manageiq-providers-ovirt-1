@@ -1,0 +1,13 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/config/environments/*.local.yml
+/config/settings.local.yml
+/config/settings/*.local.yml
+/coverage/
+/doc/
+/pkg/
+/spec/manageiq
+/spec/reports/
+/tmp/
